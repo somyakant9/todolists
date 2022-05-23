@@ -1,7 +1,11 @@
 .tasks {
   /* sample */
+  display: flex;
 }
-
+.task>ul>li{
+width: 100%;
+}
 .empty {
   /* sample */
+  margin: auto;
 }
